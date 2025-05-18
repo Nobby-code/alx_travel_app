@@ -4,4 +4,4 @@ drf-yasg
 django-cors-headers
 django-environ
 mysqlclient
-celery
+celery   iueijn
